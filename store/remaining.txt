@@ -1,0 +1,235 @@
+
+    {
+      name_sans: 'तनूकरणम्',
+      meaning: 'dilute',
+      category: 12,
+    }
+
+    {
+      name_sans: 'गतिः',
+      meaning: 'movement',
+      category: 15
+    },
+
+    {
+      name_sans: 'उपकारः',
+      meaning: 'help',
+      category: 38,
+      verse: 'दास्या संयच्छते कामी ददात्युपकरोति च ।'
+    },
+    {
+      name_sans: 'दया',
+      meaning: 'kind',
+      category: 42
+    },
+    {
+      name_sans: 'दर्पः',
+      meaning: 'pride',
+      category: 43
+    },
+    {
+      name_sans: 'विचारः',
+      meaning: 'consult',
+      category: 47
+    },
+    {
+      name_sans: 'कथनम्',
+      meaning: 'tell',
+      category: 59
+    },
+    {
+      name_sans: 'आरोहः',
+      meaning: 'climb',
+      category: 65
+    },
+    {
+      name_sans: 'तर्जनम्',
+      meaning: 'beat',
+      category: 70
+    },
+    {
+      name_sans: 'निवासः',
+      meaning: 'reside',
+      category: 71
+    },
+    {
+      name_sans: 'क्रीडा',
+      meaning: 'play',
+      category: 74,
+      verse: 'खेलति क्रीडति परिक्रीडते विहरत्यपि । सङ्क्रीडते विभ्रमति विनोदयति दीव्यति ॥३७॥ '
+    },
+
+    {
+      name_sans: 'उत्पादनम्',
+      meaning: 'create',
+      category: 87,
+      verse: 'सौति सूते च जनयत्युत्पादयति सूयते । '
+    },
+
+    {
+      name_sans: 'भ्रंशः',
+      meaning: 'ruin',
+      category: 91
+    },
+
+    {
+      name_sans: 'अवधानम्',
+      meaning: 'caution',
+      category: 96
+    },
+    {
+      name_sans: 'अवरोहः',
+      meaning: 'descend',
+      category: 97
+    },
+
+    {
+      name_sans: 'विक्रयः',
+      meaning: 'sell',
+      category: 103,
+      verse: 'विक्रीणीते व्यवहरत्यपि ॥'
+    },
+    {
+      name_sans: 'मानम्',
+      meaning: 'respectability',
+      category: 107
+    },
+    {
+      name_sans: 'लग्नः',
+      meaning: 'auspicious moment or time fixed upon as lucky for beginning to perform anything',
+      category: 109
+    },
+    {
+      name_sans: 'लेपनम्',
+      meaning: 'coat, smearing',
+      category: 112
+    },
+    {
+      name_sans: 'मेलनम्',
+      meaning: 'union',
+      category: 113
+    },
+    {
+      name_sans: 'पतनम्',
+      meaning: 'fall',
+      category: 114
+    },
+    {
+      name_sans: 'प्लवनम्',
+      meaning: 'jump',
+      category: 115
+    },
+
+    {
+      name_sans: 'अन्तःप्रवेशः',
+      meaning: 'enter inside',
+      category: 121
+    },
+    {
+      name_sans: 'उत्तरदानम्',
+      meaning: '',
+      category: 123
+    },
+    {
+      name_sans: 'कृतिः',
+      meaning: 'creation',
+      category: 124
+    },
+    {
+      name_sans: '(वि) शरणम्',
+      meaning: 'asylum',
+      category: 125
+    },
+    {
+      name_sans: 'शापः',
+      meaning: 'curse',
+      category: 126
+    },
+    {
+      name_sans: 'घ्राणम्',
+      meaning: 'smell',
+      category: 127
+    },
+    {
+      name_sans: 'घूर्णनम्',
+      meaning: 'shaking',
+      category: 128
+    },
+    {
+      name_sans: 'घोषः',
+      meaning: 'proclaim',
+      category: 129
+    },
+    {
+      name_sans: 'चुम्बनम्',
+      meaning: 'kiss',
+      category: 130
+    },
+    {
+      name_sans: 'जीर्णक्रीया',
+      meaning: '',
+      category: 131
+    },
+    {
+      name_sans: 'जृम्भणम्',
+      meaning: 'yawn',
+      category: 132
+    },
+    {
+      name_sans: 'दशनम्',
+      meaning: 'bite',
+      category: 133
+    },
+    {
+      name_sans: 'दोषः',
+      meaning: 'mistake',
+      category: 134
+    },
+    {
+      name_sans: 'फलनम्',
+      meaning: 'bearing fruit or producing consequences',
+      category: 135
+    },
+    {
+      name_sans: 'लङ्घनम्',
+      meaning: 'jump',
+      category: 136
+    },
+    {
+      name_sans: 'लम्बनम्',
+      meaning: 'hanging down',
+      category: 137
+    },
+
+    {
+      name_sans: 'श्लथनम्',
+      meaning: '',
+      category: 140
+    },
+
+    {
+      name_sans: 'ज्वलनम्',
+      meaning: 'flaming',
+      category: 143
+    },
+    {
+      name_sans: 'पठनम्',
+      meaning: 'read',
+      category: 144
+    },
+    {
+      name_sans: 'प्रस्रवणम्',
+      meaning: 'spout',
+      category: 145
+    },
+    {
+      name_sans: 'वयनम्',
+      meaning: 'weave',
+      category: 146
+    },
+
+    {
+      name_sans: 'दोहनम्',
+      meaning: 'milking',
+      category: 148
+    }
